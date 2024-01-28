@@ -1,7 +1,4 @@
-body::before{
-  content: '';
-  height: 100px;
-  position: absolute;
-  left: 0;
-  top: 0;
+.renkVer{
+  background-color: red !important;
+  border-radius: 20px !important;
 }
